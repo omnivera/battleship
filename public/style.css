@@ -2,12 +2,16 @@
   display: flex;
 }
 
+body{
+  background-color: aqua;
+}
+
 .grid-user {
   width: 400px;
   height: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-color: blue;
+  background-color: silver;
   margin: 20px;
 }
 
@@ -21,7 +25,7 @@
   height: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-color: lightgreen;
+  background-color: silver;
   margin: 20px;
 }
 
